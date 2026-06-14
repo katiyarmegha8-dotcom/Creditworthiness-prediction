@@ -1,0 +1,5 @@
+Income,Debt,Credit_History,Payment_History,Credit_Status
+50000,10000,1,1,1
+30000,15000,0,0,0
+70000,5000,1,1,1
+40000,20000,0,1,0
